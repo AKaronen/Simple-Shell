@@ -4,6 +4,8 @@
 #include <sys/wait.h>
 #include <unistd.h>
 
+// help for creating this project was acquired here https://brennan.io/2015/01/16/write-a-shell-in-c/
+
 // Let's define different kind of error messages
 #define std_error "An error has occurred\n"
 #define file_error "Cannot open file\n"
